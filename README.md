@@ -1,6 +1,5 @@
 # Epileptic Seizure Detection on FPGA
-## AMD Hackathon Submission - Round 1
-### Team: Lohit Vijayabaskar & Aryaman
+### Team: Lohit Vijayabaskar & Aryaman Srivastava
 
 ---
 
@@ -241,6 +240,6 @@ Based on: MIT Thesis "Application of ML to Epileptic Seizure Onset Detection"
 ---
 
 ## Contact
-
+Aryaman Srivastava and Lohit Vijayabaskar
 Lohit Vijayabaskar
 AMD Hackathon 2026 - Round 1 Submission
